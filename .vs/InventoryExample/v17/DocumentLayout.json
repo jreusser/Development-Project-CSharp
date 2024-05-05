@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\data\\inventoryexamplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\data\\inventoryexamplecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\models\\sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\models\\sku.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\models\\imageuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\models\\imageuri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\models\\customproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\models\\customproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\inventoryexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\inventoryexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|c:\\users\\jake\\source\\repos\\inventoryexample\\inventoryexample\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CA73582-2D44-48A4-B0A1-4B660A14A3AA}|InventoryExample\\InventoryExample.csproj|solutionrelative:inventoryexample\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Dockerfile",
+              "RelativeDocumentMoniker": "InventoryExample\\Dockerfile",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Dockerfile",
+              "RelativeToolTip": "InventoryExample\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-05T19:11:29.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryExample\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\appsettings.json",
+              "RelativeToolTip": "InventoryExample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T19:04:22.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:03:32.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T19:03:31.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:03:31.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Delete.cshtml",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T19:03:31.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Details.cshtml.cs",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:03:31.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Details.cshtml",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T19:03:31.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:03:31.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Edit.cshtml",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T19:03:31.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:03:31.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "InventoryExample\\Pages\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T19:03:31.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Program.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Program.cs",
+              "RelativeToolTip": "InventoryExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:03:31.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InventoryExampleContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Data\\InventoryExampleContext.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Data\\InventoryExampleContext.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Data\\InventoryExampleContext.cs",
+              "RelativeToolTip": "InventoryExample\\Data\\InventoryExampleContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:03:31.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SKU.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\SKU.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Models\\SKU.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\SKU.cs",
+              "RelativeToolTip": "InventoryExample\\Models\\SKU.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:57:55.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImageURI.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\ImageURI.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Models\\ImageURI.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\ImageURI.cs",
+              "RelativeToolTip": "InventoryExample\\Models\\ImageURI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:57:49.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomProperty.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\CustomProperty.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Models\\CustomProperty.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\CustomProperty.cs",
+              "RelativeToolTip": "InventoryExample\\Models\\CustomProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:57:43.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\Category.cs",
+              "RelativeToolTip": "InventoryExample\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:57:19.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryExample\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:57:14.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InventoryExample",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\InventoryExample.csproj",
+              "RelativeDocumentMoniker": "InventoryExample\\InventoryExample.csproj",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\InventoryExample.csproj",
+              "RelativeToolTip": "InventoryExample\\InventoryExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T18:57:01.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InventoryExample\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:56:13.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "InventoryExample\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jake\\source\\repos\\InventoryExample\\InventoryExample\\Pages\\Index.cshtml",
+              "RelativeToolTip": "InventoryExample\\Pages\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:55:53.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
